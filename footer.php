@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <div class="footer-rodape-area-left-nameprojeto">
-                        SocietySec&nbsp;&copy;&nbsp;2020
+                        Lorem ipsum dolor sit amet&nbsp;&copy;&nbsp;2020
                     </div>
                 </div>
                 <div class="footer-rodape-area-center">
