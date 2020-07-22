@@ -28,7 +28,7 @@
             <div class="section-body">
                 <div class="section-aboutus">
                     <div class="section-aboutus--left">
-                        <p>A empresa SocietySec Cursos foi fundade nesse ano de 2020 com o propósito de passar todos nosso conhecimento adiante. Nos últimos anos, percebemos um grande deficit em relação a cursos ligados a área de segurança da informação. Além de serem poucos que oferecem esse tipo de conhecimento, o preço é sempre um problema. Nós queremos fazer a direneça nesse meio, trazendo um conteudo diferenciado e por um preço totalmente acessivel. Contamos com instrutores dedicados a causa de entender as maiores dificuldades de nossos alunos e trazer soluções simples e de fácil compreensão.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus dolor urna. Nunc sit amet magna magna. Nulla at tellus purus. Vestibulum ultricies ante orci, sed aliquet nisl eleifend vitae. Ut et volutpat nisl. Donec at nulla dolor. Cras iaculis dictum nulla ac auctor. Proin vel lacinia leo. Ut vitae vulputate orci. Sed sit amet vehicula metus. Nullam condimentum a libero vestibulum egestas. Morbi non malesuada arcu, non eleifend ligula. Pellentesque dictum posuere nibh, sit amet tristique massa mattis sit amet. Mauris venenatis lorem elit, vitae feugiat felis sodales vel. Curabitur interdum porttitor dolor non blandit. Curabitur volutpat, mauris pharetra dignissim pulvinar, sem turpis pulvinar magna, et ornare mi enim quis diam. </p>
                     
                     </div>
                     <div class="section-aboutus--right">
@@ -66,8 +66,8 @@
                             <div class="slide">
                                 <div class="slidearea">
                                     <img class="section-team--avatar" src="./media/complementos/homem2.png"/>
-                                    <div class="section-team--name">Prof Gabriel</div>
-                                    <div class="section-team--role">Períto em análise de Malware</div>
+                                    <div class="section-team--name">Teacher 1</div>
+                                    <div class="section-team--role">Lorem ipsum dolor sit amet</div>
                                     <div class="section-team--social">
                                         <a href=""><img src="./assets/imagens/icones/facebook.png"/></a>
                                         <a href=""><img src="./assets/imagens/icones/twitter.png"/></a>
@@ -80,8 +80,8 @@
                             <div class="slide">
                                 <div class="slidearea">
                                     <img class="section-team--avatar" src="./media/complementos/mulher1.png"/>
-                                    <div class="section-team--name">Prof Carol</div>
-                                    <div class="section-team--role">Programadora Full-Stack</div>
+                                    <div class="section-team--name">Teacher 2</div>
+                                    <div class="section-team--role">Lorem ipsum dolor sit amet</div>
                                     <div class="section-team--social">
                                         <a href=""><img src="./assets/imagens/icones/facebook.png"/></a>
                                         <a href=""><img src="./assets/imagens/icones/twitter.png"/></a>
@@ -94,8 +94,8 @@
                             <div class="slide">
                                 <div class="slidearea">
                                     <img class="section-team--avatar" src="./media/complementos/homem2.png"/>
-                                    <div class="section-team--name">Arthur</div>
-                                    <div class="section-team--role">Pentester</div>
+                                    <div class="section-team--name">Teacher 3</div>
+                                    <div class="section-team--role">Lorem ipsum dolor sit amet</div>
                                     <div class="section-team--social">
                                         <a href=""><img src="./assets/imagens/icones/facebook.png"/></a>
                                         <a href=""><img src="./assets/imagens/icones/twitter.png"/></a>
