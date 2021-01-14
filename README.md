@@ -1,2 +1,2 @@
 # Template
-Template para plataforma de ensino 
+Template feito em HTML, CSS, PHP 7.
