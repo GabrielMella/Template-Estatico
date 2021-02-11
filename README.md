@@ -1,2 +1,6 @@
 # Template
-Template feito em HTML, CSS, PHP 7.
+Template simples no estilo dark.
+
+<h3>Técnologias utilizadas</h3>
+<p>. HTML</p>
+<p>. CSS</p>
